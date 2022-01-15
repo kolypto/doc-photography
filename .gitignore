@@ -1,0 +1,23 @@
+# Hidden root files: tools, IDEs, etc
+/.*
+
+# Generated files
+/_site
+
+# Dependencies
+/vendor
+
+# === Common
+
+# Temps
+*~
+*.tmp
+*.bak
+*.swp
+*.kate-swp
+*.DS_Store
+Thumbs.db
+
+# But ...
+!.gitkeep
+!.gitignore
