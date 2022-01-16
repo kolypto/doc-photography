@@ -5,3 +5,6 @@ title: Photography
 description:
 
 markdown: kramdown
+
+# Else links won't work
+baseurl: /doc-photography
