@@ -7,4 +7,8 @@ description:
 markdown: kramdown
 
 # Else links won't work
-baseurl: /doc-photography
+#plugins:
+  #- "jekyll-github-metadata"
+#url: https://kolypto.github.io
+#baseurl: /doc-photography
+#github: [metadata]
